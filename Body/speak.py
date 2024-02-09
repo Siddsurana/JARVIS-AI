@@ -11,4 +11,4 @@ def speak(text):
     engine.runAndWait()
 
 
-speak("Hello, I am your Python speaking assistant created by siddharth")
+speak("Hello, I am your Python speaking BOT created by Siddharth")
